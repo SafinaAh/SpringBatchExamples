@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home" />
+    <option name="maximumHeapSize" value="40923" />
+    <option name="vmParameters" value="-Djava.library.path=/Users/safina.ahmareen/Code/jnotify-lib-0.94" />
+  </component>
+</project>
